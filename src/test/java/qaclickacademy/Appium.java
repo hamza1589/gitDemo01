@@ -16,6 +16,6 @@ public class Appium {
 		System.out.println("IOS APP");
 		System.out.println("IOS APP2");
 		System.out.println("IOS Valide");
-		
+		System.out.println("IOS Validating");
 	}
 	}
