@@ -6,6 +6,9 @@ public class Selenium {
 	@Test
 	public void browserAutomation() {
 		System.out.println("Browser Automation");
+		System.out.println("Browser Automation1");
+		System.out.println("Browser Automation2");
+		System.out.println("Browser Automation3");
 		
 	}
 	@Test
