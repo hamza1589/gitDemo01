@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92" started-at="2020-07-05T22:39:09 EDT" finished-at="2020-07-05T22:39:09 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="92" started-at="2020-07-05T22:39:09 EDT" finished-at="2020-07-05T22:39:09 EDT">
+      <class name="qaclickacademy.Selenium">
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:qaclickacademy.Selenium@3712b94]" name="ElementsUI" duration-ms="2" started-at="2020-07-05T22:39:09 EDT" finished-at="2020-07-05T22:39:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:qaclickacademy.Selenium@3712b94]" name="browserAutomation" duration-ms="1" started-at="2020-07-05T22:39:09 EDT" finished-at="2020-07-05T22:39:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- qaclickacademy.Selenium -->
+      <class name="qaclickacademy.Appium">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:qaclickacademy.Appium@4d41cee]" name="IOSApps" duration-ms="12" started-at="2020-07-05T22:39:09 EDT" finished-at="2020-07-05T22:39:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="nativeApp()[pri:0, instance:qaclickacademy.Appium@4d41cee]" name="nativeApp" duration-ms="2" started-at="2020-07-05T22:39:09 EDT" finished-at="2020-07-05T22:39:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeApp -->
+      </class> <!-- qaclickacademy.Appium -->
+      <class name="qaclickacademy.RestAPI">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.RestAPI@2833cc44]" name="deleteTwitter" duration-ms="2" started-at="2020-07-05T22:39:09 EDT" finished-at="2020-07-05T22:39:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.RestAPI@2833cc44]" name="postJira" duration-ms="2" started-at="2020-07-05T22:39:09 EDT" finished-at="2020-07-05T22:39:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.RestAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
